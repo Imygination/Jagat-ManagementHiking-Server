@@ -1,0 +1,65 @@
+[
+  {
+    "posName": "Pos 1",
+    "posMdpl": "1860",
+    "time": "2 jam",
+    "MountainId": 1,
+    "posDescription": "Pos 1 merupakan tempat istirahat pertama yang menyediakan air bersih dan tempat istirahat untuk memulihkan energi sebelum melanjutkan pendakian. Dengan pemandangan hutan yang lebat, para pendaki dapat menikmati keindahan alam sekitar."
+  },
+  {
+    "posName": "Pos 2",
+    "posMdpl": "2300",
+    "time": "2 jam",
+    "MountainId": 1,
+    "posDescription": "Pos 2 terletak di tengah perjalanan menuju puncak. Dari pos ini, pendaki dapat melihat pemandangan yang semakin menakjubkan dan merasakan ketinggian yang terus bertambah. Fasilitas di pos ini mencakup tempat istirahat dan layanan medis ringan."
+  },
+  {
+    "posName": "Pos 3",
+    "posMdpl": "2700",
+    "time": "2.5 jam",
+    "MountainId": 1,
+    "posDescription": "Pos 3 merupakan pos terakhir sebelum mencapai puncak. Di pos ini, pendaki dapat bersiap-siap untuk menaklukkan puncak Gunung Merapi. Terdapat fasilitas pendukung seperti tempat istirahat, toilet, dan pemandangan yang memukau."
+  },
+  {
+    "posName": "Pos Plawangan Sembalun",
+    "posMdpl": "2639",
+    "time": "8 jam",
+    "MountainId": 2,
+    "posDescription": "Pos Plawangan Sembalun adalah pos terakhir sebelum mencapai puncak Rinjani. Di pos ini, para pendaki dapat menikmati pemandangan matahari terbit yang spektakuler. Fasilitas meliputi tempat istirahat, tempat berkemah, dan sumber air bersih."
+  },
+  {
+    "posName": "Pos Segara Anak",
+    "posMdpl": "2000",
+    "time": "3 jam",
+    "MountainId": 2,
+    "posDescription": "Pos Segara Anak terletak di sekitar danau kawah. Para pendaki dapat menikmati keindahan danau sebelum melanjutkan perjalanan ke pos berikutnya. Fasilitas di pos ini mencakup tempat berkemah, area piknik, dan tempat istirahat."
+  },
+  {
+    "posName": "Pos Plawangan Senaru",
+    "posMdpl": "2642",
+    "time": "6 jam",
+    "MountainId": 2,
+    "posDescription": "Pos Plawangan Senaru adalah pos pertama setelah melewati puncak. Para pendaki dapat bersantai sejenak sebelum melanjutkan perjalanan turun. Fasilitas meliputi tempat istirahat, toilet, dan area berkemah yang nyaman."
+  },
+  {
+    "posName": "Pos 1",
+    "posMdpl": "1700",
+    "time": "2 jam",
+    "MountainId": 3,
+    "posDescription": "Pos 1 adalah tempat istirahat pertama setelah memulai pendakian dari basecamp. Di pos ini, para pendaki dapat menikmati udara segar dan pemandangan hutan sekitar."
+  },
+  {
+    "posName": "Pos 2",
+    "posMdpl": "2200",
+    "time": "2.5 jam",
+    "MountainId": 3,
+    "posDescription": "Pos 2 terletak di kawasan hutan yang lebat. Fasilitas di pos ini mencakup tempat istirahat, tempat berkemah, dan sumber air bersih untuk memberikan kenyamanan kepada pendaki."
+  },
+  {
+    "posName": "Puncak Sindoro",
+    "posMdpl": "3153",
+    "time": "4 jam",
+    "MountainId": 3,
+    "posDescription": "Puncak Sindoro adalah tujuan akhir pendakian. Dari puncak ini, para pendaki dapat menikmati pemandangan spektakuler gunung-gemulai sekitar dan perasaan kepuasan setelah menaklukkan puncak tertinggi Gunung Sindoro."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Merapi via Selo",
+    "location": "Jawa Tengah",
+    "lat": "-7.542630",
+    "lon": "110.486758",
+    "mdpl": "2930",
+    "description": "Gunung Merapi adalah gunung berapi aktif yang terletak di Pulau Jawa, Indonesia. Dengan ketinggian 2.930 mdpl, Merapi dikenal sebagai salah satu gunung berapi paling aktif di dunia. Letusan terakhir terjadi pada 2020, dan gunung ini memiliki nilai spiritual dan budaya tinggi bagi masyarakat sekitar."
+  },
+  {
+    "name": "Rinjani via Sembalun",
+    "location": "Lombok, Nusa Tenggara Barat",
+    "lat": "-8.389470",
+    "lon": "116.454651",
+    "mdpl": "3726",
+    "description": "Gunung Rinjani adalah gunung tertinggi kedua di Indonesia dengan ketinggian 3.726 mdpl. Terletak di Pulau Lombok, gunung ini menawarkan pemandangan indah dan danau kawah yang menakjubkan. Pendakian Rinjani sering menjadi tujuan favorit bagi para pendaki dan petualang."
+  },
+  {
+    "name": "Sindoro via Kledung",
+    "location": "Jawa Tengah",
+    "lat": "-7.335999714756469",
+    "lon": "110.03324802374907",
+    "mdpl": "3153",
+    "description": "Gunung Sindoro, atau yang juga kerap disebut Gunung Sundoro, memiliki ketinggian 3.153 mdpl di atas permukaan laut. Gunung ini terletak di sekitar Kabupaten Temanggung dan Wonosobo, Jawa Tengah. Gunung Sindoro merupakan gunung berapi aktif berkarakter gunung kerucut tipe Strato, dan terakhir sekali meletus tahun 1971 silam. Bersama Gunung Sumbing yang berhadapan dengannya, Gunung Sindoro dan Gunung Sumbing kerap dianggap sebagai Gunung Kembar’ dalam artian harafiah karena mirip bentuknya dan lokasinya pun berhadapan sangat dekat. Gunung Sumbing dan Sindoro selalu dijadikan target pendakian, terutama bagi pendakian tek-tok, di mana kedua gunung berusaha ditaklukkan dalam waktu yang berdekatan. Apabila dikaitkan pula dengan Gunung Slamet, maka Gunung Sindoro, Sumbing, dan Slamet memiliki julukan Triple S, tiga dari empat gunung tertinggi di Jawa Tengah yang berawalan huruf S."
+  }
+]
