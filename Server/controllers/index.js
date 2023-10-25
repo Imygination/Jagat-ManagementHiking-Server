@@ -2,6 +2,7 @@ const { Mountain, Pos } = require("../models");
 const axios = require("axios");
 const { Op } = require("sequelize");
 const openWeather = require("../helper/openWeather");
+const { transporter, mailOptions } = require("../helper/nodeMailer");
 const baseUrl = "https://ch1news.gemaramadhan.online";
 // const baseUrl = 'http://localhost:3000'
 
@@ -17,6 +18,15 @@ class Controller {
       const apiUrl = openWeather(mountain.lat, mountain.lon)
       const {data} = await axios.get(apiUrl)
       const weather = data.list[0].weather[0].main
+
+      const info = await transporter.sendMail(mailOptions, function(err, data) {
+        if (err) {
+          console.log("Error EMAIL " + err);
+        } else {
+          console.log("Email sent successfully");
+        }
+      });
+
       // console.log(data.list[0].weather[0].main, new Date().getHours());
       res.status(200).json({mountain, weather})
     } catch (error) {
