@@ -12,11 +12,4 @@ let transporter = nodemailer.createTransport({
   }
 });
 
-let mailOptions = {
-  from: 'gemaramadhan20@gmail.com',
-  to: 'gemaramadhan20@gmail.com',
-  subject: 'Nodemailer Project',
-  text: 'Hi from your nodemailer project'
-};
-
-module.exports = {transporter, mailOptions}
+module.exports = {transporter}
